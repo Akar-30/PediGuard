@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+# PediGuard Mobile Application
+
+PediGuard is a cutting-edge mobile application designed to assist in the early detection and monitoring of Autism Spectrum Disorder (ASD) in children. By integrating advanced wearable technology and AI-driven data analysis, PediGuard provides parents, caregivers, and healthcare professionals with a powerful tool for tracking vital signs, voice patterns, and behaviors associated with ASD risk.
+this is a demo project
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
